@@ -1,0 +1,65 @@
+.navbar-nav {
+    justify-content: space-between; 
+}
+.social a{
+    text-decoration: none;
+}
+
+.social{
+    text-align: center;
+    line-height: 35px;
+}
+
+.like{
+    text-align: center; 
+    font-weight:bold ;
+    font-style: normal
+}
+
+.hr-line{
+    width: 75px; 
+    margin: auto; ;
+}
+
+.service{
+    background-color: lightslategray; 
+    height: 370px; 
+}
+
+.partner{
+    align-content: center;
+    text-align: center; 
+    font-weight:bold ;
+    font-style: normal
+}
+
+.partner-font{
+    font-style: italic;
+    line-height: 2em;
+}
+
+.letter{
+    text-align: center; 
+    font-weight:bold ;
+    font-style: normal
+}
+
+.gravity{
+    background-color: rgb(211, 211, 211); 
+    /* height: 200px; */
+
+    text-align: center; font-weight:bold ;font-style: normal
+}
+
+.footer{
+    background-color: whitesmoke;
+}
+
+.row.work {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 300px;
+    /* border: 1px solid black;  */
+}
