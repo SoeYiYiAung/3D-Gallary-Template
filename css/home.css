@@ -13,7 +13,8 @@
 .like{
     text-align: center; 
     font-weight:bold ;
-    font-style: normal
+    font-style: normal;
+    /* color: aliceblue;     */
 }
 
 .hr-line{
@@ -22,8 +23,16 @@
 }
 
 .service{
-    background-color: lightslategray; 
-    height: 370px; 
+    /* background-color: lightslategray;  */
+    /* height: 500px;  */
+    color: aliceblue;
+}
+
+.service h1{
+    text-align: center; 
+    font-weight:bold ;
+    font-style: normal;
+    color:aliceblue;
 }
 
 .partner{
